@@ -48,7 +48,7 @@ function Mint() {
             </Col>
           ))}
         </Row>
-        <a href="https://mint.cbdallstars.io/" role="button" className="joinus-btn text-center">MINT HERE</a>
+        <a href="https://mint.cbdallstars.io/" target="blank" role="button" className="joinus-btn text-center">MINT HERE</a>
       </Container>
     </div>
   );

@@ -59,8 +59,8 @@ function Team() {
           </Col>
         ))}
       </Row>
-      <a href="https://discord.gg/cbdallstars" className="discord-icon"><FaDiscord /></a>
-      <a href="https://www.instagram.com/cbd_all_stars" className="instagram-icon"><FaInstagram /></a>
+      <a href="https://discord.gg/cbdallstars" target="blank" className="discord-icon"><FaDiscord /></a>
+      <a href="https://www.instagram.com/cbd_all_stars" target="blank" className="instagram-icon"><FaInstagram /></a>
       <Container className="px-5 py-4">
         <Row className="d-flex justify-content-between">
           <Col sm={6}>

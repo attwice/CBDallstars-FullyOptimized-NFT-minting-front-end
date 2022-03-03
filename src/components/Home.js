@@ -32,7 +32,7 @@ function Home() {
     <div id="home" className="home mx-auto">
       <Row className="gx-0 pt-100">
         <Col md={6} className="d-flex justify-content-center">
-          <a href="https://mint.cbdallstars.io/" role="button" className="mintbtn text-white text-center">
+          <a href="https://mint.cbdallstars.io/" target="blank" role="button" className="mintbtn text-white text-center">
             MINT HERE
           </a>
         </Col>

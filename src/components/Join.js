@@ -46,7 +46,7 @@ function Join() {
               CBD All-Stars<br></br>
               EMPOWERING THE COMMUNITY
             </h4>
-            <a href="https://discord.gg/cbdallstars" role="button" className="joinus-btn text-center">JOIN US</a>
+            <a href="https://discord.gg/cbdallstars" target="blank" role="button" className="joinus-btn text-center">JOIN US</a>
           </Col>
         </Row>
       </Container>

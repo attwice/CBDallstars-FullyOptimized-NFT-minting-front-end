@@ -47,8 +47,8 @@ function Story() {
 							growing community.<br></br><br></br>
 						</p>
 						<div className="d-flex justify content-around">
-							<a href="https://twitter.com/All_Stars_NFT" role="button" className="join-btn mx-auto text-center pt-2">JOIN TWITTER</a>
-							<a href="https://discord.gg/cbdallstars" role="button" className="join-btn mx-auto text-center pt-2">JOIN DISCORD</a>
+							<a href="https://twitter.com/All_Stars_NFT" target="blank" role="button" className="join-btn mx-auto text-center pt-2">JOIN TWITTER</a>
+							<a href="https://discord.gg/cbdallstars" target="blank" role="button" className="join-btn mx-auto text-center pt-2">JOIN DISCORD</a>
 						</div>
 					</Col>
 				</Row>

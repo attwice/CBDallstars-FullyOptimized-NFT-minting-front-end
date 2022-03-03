@@ -137,10 +137,10 @@ function Roadmap() {
           </Col>
           <Col md={6} sm={12} className="text-center">
             <p className="mt-4">WIP NOW LIVE!!</p>
-            <a className="wip-icon" href="https://mint.cbdallstars.io/"><RiArrowDownCircleFill/></a>
+            <a className="wip-icon" href="https://mint.cbdallstars.io/" target="blank"><RiArrowDownCircleFill/></a>
             <p className="mt-4">(Whitelist Immediate Purchase)</p>
             <p>WIP NOW LIVE!!</p>
-            <a className="wip-icon" href="https://mint.cbdallstars.io/"><RiArrowDownCircleFill/></a>
+            <a className="wip-icon" href="https://mint.cbdallstars.io/" target="blank"><RiArrowDownCircleFill/></a>
             <p className="mt-4">(Whitelist Immediate Purchase)</p>
           </Col>
         </Row>
