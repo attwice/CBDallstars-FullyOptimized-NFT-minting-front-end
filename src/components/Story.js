@@ -27,7 +27,6 @@ function Story() {
 						</Row>
 					</Col>
 					<Col md={7} className="p-5 text-white">
-						<p>STORY</p>
 						<h1>Welcome to the<br></br>
 							CBD ALL-STARS NFT’s
 						</h1>

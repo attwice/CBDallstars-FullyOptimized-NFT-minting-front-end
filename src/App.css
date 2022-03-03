@@ -1,12 +1,21 @@
 a {
   color: #ffffff !important;
   text-decoration: none !important;
+  font-family: Roboto-bold;
+}
+
+h1 {
+  font-family: Roboto-black;
+}
+
+p {
+  font-family: Roboto-light;
 }
 
 .logo-txt {
   font-size: 36px !important;
   font-weight: bold;
-  font-family:sans-serif;
+  font-family:Roboto-black;
 }
 @media screen and (max-width: 768px) {
   .logo-txt {
@@ -18,7 +27,7 @@ a {
   color: white !important;
   font-size: 16px;
   font-weight: bold;
-  font-family: sans-serif;
+  font-family: Roboto-black;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -69,7 +78,7 @@ a {
   padding: 4px 30px;
   border-radius: 40px;
   font-size: 24px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Roboto-black;
   font-weight: bold;
   width: 315px;
   height: 50px;
@@ -110,7 +119,7 @@ a {
   border: 3px solid white;
   border-radius: 40px;
   font-size: 16px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, Roboto-black;
   font-weight: bold;
   width: 200px;
   height: 45px;
@@ -146,7 +155,7 @@ a {
   height: 100px;
   width: 130px;
   color: #ff158b;
-  font-family: sans-serif;
+  font-family: Roboto-black;
   margin-right: 30px;
   line-height: 6em;
   font-weight: bold;
@@ -206,12 +215,16 @@ a {
   transform: rotate(-90deg) !important;
 }
 
+.accordion-body {
+  font-family: Roboto-medium;
+}
+
 .joinus-btn {
   background-color: #3eba2f;
   border: 3px solid white;
   border-radius: 40px;
   font-size: 16px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, Roboto-black;
   font-weight: bold;
   width: 160px !important;
   height: 45px;
