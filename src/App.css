@@ -1,7 +1,7 @@
 a {
   color: #ffffff !important;
   text-decoration: none !important;
-  font-family: Roboto-bold;
+  font-family: Roboto-black;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-  font-family: Roboto-light;
+  font-family: Roboto-medium;
 }
 
 .logo-txt {

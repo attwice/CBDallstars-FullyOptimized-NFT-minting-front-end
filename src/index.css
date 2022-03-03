@@ -15,15 +15,8 @@ code {
   font-family: Roboto-black;
   src: url(./assets/Roboto-Black.ttf);
 }
-@font-face {
-  font-family: Roboto-bold;
-  src: url(./assets/Roboto-Bold.ttf);
-}
+
 @font-face {
   font-family: Roboto-medium;
   src: url(./assets/Roboto-Medium.ttf);
-}
-@font-face {
-  font-family: Roboto-light;
-  src: url(./assets/Roboto-Light.ttf);
 }
